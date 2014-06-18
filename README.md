@@ -1,6 +1,6 @@
 # June 18 Training Repo
 
-This is training
+This is training; one more edit for testing
 
 ## Objectives
 * Foundations
